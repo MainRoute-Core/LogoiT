@@ -1,6 +1,6 @@
 {
   "lang": "hi",
-  "title": "Logo.Surf - AI लोगो जनरेटर",
+  "title": "LogoiT - AI लोगो जनरेटर",
   "meta_description": "AI के साथ तुरंत ऑल लोगो बनाएं लें। पेशेवर, मुफ्त और आसान ब्रांड डिजाइन.",
   "meta_keywords": "generador de logotipos, logotipo con IA, creador de logotipos gratis, diseño de marca, creación de logotipos",
   "hero_title": "Genera Logotipos en Segundos con IA",
@@ -39,7 +39,7 @@
   "copy_html": "Copiar HTML",
   "gallery_title": "लोगो उदाहरण",
   "emoji_note": "Los emojis pueden hacer que tu logotipo sea más divertido y memorable",
-  "brand_copyright": "© 2025 Logo.Surf - Todos los Derechos Reservados",
+  "brand_copyright": "© 2025 LogoiT - Todos los Derechos Reservados",
   "features": "Características",
   "multiple_formats": "Múltiples Formatos",
   "multiple_formats_desc": "Genera logotipos en formatos PNG, SVG y favicon",
@@ -49,7 +49,7 @@
   "instant_preview_desc": "अपने लोगो में बदलाव को रीयल-टाइम में देखें",
   "use_cases": {
     "title": "हर प्रोजेक्ट के लिए परफेक्ट",
-    "subtitle": "चाहे आप स्टार्टअप बना रहे हों, साइड प्रोजेक्ट लॉन्च कर रहे हों या अपना ब्रांड रीडिज़ाइन कर रहे हों, Logo.surf आपको कवर करता है",
+    "subtitle": "चाहे आप स्टार्टअप बना रहे हों, साइड प्रोजेक्ट लॉन्च कर रहे हों या अपना ब्रांड रीडिज़ाइन कर रहे हों, LogoiT आपको कवर करता है",
     "startup": "स्टार्टअप और उद्यमी",
     "startup_desc": "सीमित बजट में प्रोफेशनल ब्रांडिंग बनाएं। महंगे डिज़ाइनरों को हायर किए बिना MVP, लैंडिंग पेज और प्रेजेंटेशन के लिए तुरंत लोगो और फेविकॉन्स जेनरेट करें।",
     "developers": "डेवलपर्स और डिज़ाइनर्स",
@@ -74,7 +74,7 @@
     "step3_desc": "एक क्लिक में अपना लोगो मल्टिपल फॉर्मेट्स (PNG, SVG) में और सभी डिवाइसेज और ब्राउज़र्स के लिए कम्प्लीट फेविकॉन पैकेज पाएं।"
   },
   "benefits": {
-    "title": "Logo.surf क्यों चुनें",
+    "title": "LogoiT क्यों चुनें",
     "no_signup": "साइनअप की जरूरत नहीं",
     "no_signup_desc": "अकाउंट बनाए बिना या पर्सनल इन्फॉर्मेशन दिए बिना तुरंत बनाना शुरू करें। आपकी प्राइवेसी प्रोटेक्टेड है।",
     "unlimited_use": "अनलिमिटेड डाउनलोड्स",
@@ -89,8 +89,8 @@
     "web_based_desc": "कोई सॉफ्टवेयर इंस्टॉलेशन की जरूरत नहीं। वेब ब्राउज़र वाले किसी भी डिवाइस पर काम करता है - डेस्कटॉप, टैबलेट या मोबाइल।"
   },
   "faq": "अक्सर पूछे जाने वाले प्रश्न",
-  "what_is_logosurf": "¿Qué es Logo.Surf?",
-  "what_is_logosurf_answer": "Logo.Surf es una plataforma de generación de logotipos impulsada por IA que te ayuda a crear logotipos profesionales de manera rápida y sencilla.",
+  "what_is_logosurf": "¿Qué es LogoiT?",
+  "what_is_logosurf_answer": "LogoiT es una plataforma de generación de logotipos impulsada por IA que te ayuda a crear logotipos profesionales de manera rápida y sencilla.",
   "ai_question": "¿Cómo genera la IA los logotipos?",
   "ai_answer": "Nuestra IA analiza tu entrada de texto y crea diseños de logotipos únicos basados en las tendencias de diseño actuales y tus requisitos específicos.",
   "what_is_favicon": "¿Qué es un Favicon?",

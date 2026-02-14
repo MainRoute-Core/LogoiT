@@ -1,7 +1,7 @@
 {
   "lang": "zh-hant",
   "meta": {
-    "title": "Logo.Surf - 文字生成Logo及網站圖標",
+    "title": "LogoiT - 文字生成Logo及網站圖標",
     "description": "幾秒鐘內從文字創建專業Logo和網站圖標。免費線上工具，提供即時預覽、多種格式和可自訂設計。",
     "keywords": "Logo生成器, 文字轉Logo, 網站圖標生成器, 免費Logo製作, 品牌設計, Logo創建, 圖標製作"
   },
@@ -63,7 +63,7 @@
   },
   "use_cases": {
     "title": "適用於每個專案",
-    "subtitle": "無論您是在建立初創企業、啟動副業專案還是重新設計品牌，Logo.surf都能滿足您的需求",
+    "subtitle": "無論您是在建立初創企業、啟動副業專案還是重新設計品牌，LogoiT都能滿足您的需求",
     "startup": "初創企業與創業者",
     "startup_desc": "在預算有限的情況下創建專業品牌形象。快速為MVP、登陸頁面和推介材料生成Logo和網站圖示，無需聘請昂貴的設計師。",
     "developers": "開發者與設計師",
@@ -88,7 +88,7 @@
     "step3_desc": "一鍵獲取多種格式的Logo（PNG、SVG）以及適用於所有裝置和瀏覽器的完整網站圖示套件。"
   },
   "benefits": {
-    "title": "為什麼選擇Logo.surf",
+    "title": "為什麼選擇LogoiT",
     "no_signup": "無需註冊",
     "no_signup_desc": "無需建立帳戶或提供個人資訊即可立即開始創建。保護您的隱私。",
     "unlimited_use": "無限下載",
@@ -104,10 +104,10 @@
   },
   "faq": {
     "title": "常見問題",
-    "what_is_logosurf": "什麼是Logo.surf？",
-    "what_is_logosurf_answer": "Logo.surf是一個免費的線上工具，可將文字轉換為專業的Logo和網站圖示。只需輸入文字、自訂設計，即可立即下載檔案。",
-    "ai_question": "Logo.surf使用AI技術嗎？",
-    "ai_answer": "目前，Logo.surf不使用AI。它是一個直接的文字轉Logo轉換器，讓您完全控制字體、顏色和大小等設計元素。",
+    "what_is_logosurf": "什麼是LogoiT？",
+    "what_is_logosurf_answer": "LogoiT是一個免費的線上工具，可將文字轉換為專業的Logo和網站圖示。只需輸入文字、自訂設計，即可立即下載檔案。",
+    "ai_question": "LogoiT使用AI技術嗎？",
+    "ai_answer": "目前，LogoiT不使用AI。它是一個直接的文字轉Logo轉換器，讓您完全控制字體、顏色和大小等設計元素。",
     "what_is_favicon": "什麼是網站圖示？",
     "what_is_favicon_answer": "網站圖示是出現在瀏覽器分頁、書籤和搜尋結果中代表您網站的小圖示。它幫助使用者一眼識別您的網站。",
     "font_copyright": "字體版權如何處理？",

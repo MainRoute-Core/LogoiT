@@ -1,7 +1,7 @@
 {
   "lang": "en",
   "meta": {
-    "title": "Logo.Surf - Text to Logo & Favicon Generator",
+    "title": "LogoiT - Text to Logo & Favicon Generator",
     "description": "Create professional logos and favicons from text in seconds. Free online tool with instant preview, multiple formats, and customizable designs.",
     "keywords": "logo generator, text to logo, favicon generator, free logo maker, brand design, logo creation, favicon creator"
   },
@@ -63,7 +63,7 @@
   },
   "use_cases": {
     "title": "Perfect for Every Project",
-    "subtitle": "Whether you're building a startup, launching a side project, or redesigning your brand, Logo.surf has you covered",
+    "subtitle": "Whether you're building a startup, launching a side project, or redesigning your brand, LogoiT has you covered",
     "startup": "Startups & Entrepreneurs",
     "startup_desc": "Create professional branding on a budget. Generate logos and favicons quickly for MVPs, landing pages, and pitch decks without hiring expensive designers.",
     "developers": "Developers & Designers",
@@ -88,7 +88,7 @@
     "step3_desc": "Get your logo in multiple formats (PNG, SVG) and complete favicon packages for all devices and browsers in one click."
   },
   "benefits": {
-    "title": "Why Choose Logo.surf",
+    "title": "Why Choose LogoiT",
     "no_signup": "No Sign-up Required",
     "no_signup_desc": "Start creating immediately without creating accounts or providing personal information. Your privacy is protected.",
     "unlimited_use": "Unlimited Downloads",
@@ -104,10 +104,10 @@
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "what_is_logosurf": "What is Logo.surf?",
-    "what_is_logosurf_answer": "Logo.surf is a free online tool that converts text into professional logos and favicons. Simply enter your text, customize the design, and download your files instantly.",
-    "ai_question": "Does Logo.surf use AI technology?",
-    "ai_answer": "Currently, Logo.surf does not use AI. It's a straightforward text-to-logo converter that gives you full control over the design elements like fonts, colors, and sizing.",
+    "what_is_logosurf": "What is LogoiT?",
+    "what_is_logosurf_answer": "LogoiT is a free online tool that converts text into professional logos and favicons. Simply enter your text, customize the design, and download your files instantly.",
+    "ai_question": "Does LogoiT use AI technology?",
+    "ai_answer": "Currently, LogoiT does not use AI. It's a straightforward text-to-logo converter that gives you full control over the design elements like fonts, colors, and sizing.",
     "what_is_favicon": "What is a favicon?",
     "what_is_favicon_answer": "A favicon is a small icon that appears in browser tabs, bookmarks, and search results to represent your website. It helps users identify your site at a glance.",
     "font_copyright": "What about font copyrights?",

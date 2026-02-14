@@ -1,7 +1,7 @@
 {
   "lang": "nl",
   "meta": {
-    "title": "Logo.Surf - Tekst naar Logo & Favicon Generator",
+    "title": "LogoiT - Tekst naar Logo & Favicon Generator",
     "description": "Creëer professionele logo's en favicons uit tekst in seconden. Gratis online tool met directe preview, meerdere formaten en aanpasbare ontwerpen.",
     "keywords": "logo generator, tekst naar logo, favicon generator, gratis logo maker, merkontwerp, logo creatie, favicon maker"
   },
@@ -63,7 +63,7 @@
   },
   "use_cases": {
     "title": "Perfect voor Elk Project",
-    "subtitle": "Of je nu een startup bouwt, een zijproject lanceert of je merk hervormt, Logo.surf heeft je gedekt",
+    "subtitle": "Of je nu een startup bouwt, een zijproject lanceert of je merk hervormt, LogoiT heeft je gedekt",
     "startup": "Startups & Ondernemers",
     "startup_desc": "Creëer professionele branding met een beperkt budget. Genereer snel logo's en favicons voor MVP's, landingspagina's en presentaties zonder dure ontwerpers in te huren.",
     "developers": "Ontwikkelaars & Ontwerpers",
@@ -88,7 +88,7 @@
     "step3_desc": "Krijg je logo in meerdere formaten (PNG, SVG) en complete faviconpakketten voor alle apparaten en browsers met één klik."
   },
   "benefits": {
-    "title": "Waarom Kiezen voor Logo.surf",
+    "title": "Waarom Kiezen voor LogoiT",
     "no_signup": "Geen Registratie Vereist",
     "no_signup_desc": "Begin direct met creëren zonder accounts aan te maken of persoonlijke informatie te verstrekken. Je privacy is beschermd.",
     "unlimited_use": "Onbeperkte Downloads",
@@ -104,10 +104,10 @@
   },
   "faq": {
     "title": "Veelgestelde Vragen",
-    "what_is_logosurf": "Wat is Logo.surf?",
-    "what_is_logosurf_answer": "Logo.surf is een gratis online tool die tekst omzet naar professionele logo's en favicons. Voer simpelweg uw tekst in, pas het ontwerp aan en download uw bestanden direct.",
-    "ai_question": "Gebruikt Logo.surf AI-technologie?",
-    "ai_answer": "Momenteel gebruikt Logo.surf geen AI. Het is een directe tekst-naar-logo converter die u volledige controle geeft over ontwerpelementen zoals lettertypen, kleuren en maten.",
+    "what_is_logosurf": "Wat is LogoiT?",
+    "what_is_logosurf_answer": "LogoiT is een gratis online tool die tekst omzet naar professionele logo's en favicons. Voer simpelweg uw tekst in, pas het ontwerp aan en download uw bestanden direct.",
+    "ai_question": "Gebruikt LogoiT AI-technologie?",
+    "ai_answer": "Momenteel gebruikt LogoiT geen AI. Het is een directe tekst-naar-logo converter die u volledige controle geeft over ontwerpelementen zoals lettertypen, kleuren en maten.",
     "what_is_favicon": "Wat is een favicon?",
     "what_is_favicon_answer": "Een favicon is een klein pictogram dat verschijnt in browsertabbladen, bladwijzers en zoekresultaten om uw website te vertegenwoordigen. Het helpt gebruikers uw site in één oogopslag te herkennen.",
     "font_copyright": "Hoe zit het met lettertype auteursrechten?",

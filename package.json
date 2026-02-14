@@ -15,7 +15,7 @@
     "internationalization",
     "i18n"
   ],
-  "author": "Logo.surf",
+  "author": "LogoiT",
   "license": "CC-BY-NC-4.0",
   "dependencies": {
     "handlebars": "^4.7.8",

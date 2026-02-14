@@ -1,6 +1,6 @@
 {
   "lang": "tr",
-  "title": "Logo.Surf - AI Logo Oluşturucu",
+  "title": "LogoiT - AI Logo Oluşturucu",
   "meta_description": "AI ile anında çýrýtücü logolar oluşturun. Profesyonel, ücretsİz ve kolay marka tasarımı.",
   "meta_keywords": "generador de logotipos, logotipo con IA, creador de logotipos gratis, diseño de marca, creación de logotipos",
   "hero_title": "Genera Logotipos en Segundos con IA",
@@ -39,7 +39,7 @@
   "copy_html": "Copiar HTML",
   "gallery_title": "Logo Örnekleri",
   "emoji_note": "Los emojis pueden hacer que tu logotipo sea más divertido y memorable",
-  "brand_copyright": "© 2025 Logo.Surf - Todos los Derechos Reservados",
+  "brand_copyright": "© 2025 LogoiT - Todos los Derechos Reservados",
   "features": "Características",
   "multiple_formats": "Múltiples Formatos",
   "multiple_formats_desc": "Genera logotipos en formatos PNG, SVG y favicon",
@@ -49,7 +49,7 @@
   "instant_preview_desc": "Logonuzda yapılan değişiklikleri gerçek zamanlı olarak görün",
   "use_cases": {
     "title": "Her Proje İçin Mükemmel",
-    "subtitle": "Bir startup kuruyorsanız, yan proje başlatıyorsanız veya markanızı yeniden tasarlıyorsanız, Logo.surf ihtiyacınızı karşılar",
+    "subtitle": "Bir startup kuruyorsanız, yan proje başlatıyorsanız veya markanızı yeniden tasarlıyorsanız, LogoiT ihtiyacınızı karşılar",
     "startup": "Startuplar ve Girişimciler",
     "startup_desc": "Sınırlı bütçeyle profesyonel markalaşma yaratın. Pahalı tasarımcı tutmadan MVP'ler, açılış sayfaları ve sunumlar için hızlıca logo ve faviconlar oluşturun.",
     "developers": "Geliştiriciler ve Tasarımcılar",
@@ -74,7 +74,7 @@
     "step3_desc": "Tek tıklamayla logonuzu birden fazla formatta (PNG, SVG) ve tüm cihazlar ve tarayıcılar için eksiksiz favicon paketleri alın."
   },
   "benefits": {
-    "title": "Neden Logo.surf'ü Seçmelisiniz",
+    "title": "Neden LogoiT'ü Seçmelisiniz",
     "no_signup": "Kayıt Gerekmez",
     "no_signup_desc": "Hesap oluşturmadan veya kişisel bilgi vermeden hemen yaratmaya başlayın. Gizliliğiniz korunur.",
     "unlimited_use": "Sınırsız İndirme",
@@ -89,8 +89,8 @@
     "web_based_desc": "Yazılım kurulumu gerekmez. Web tarayıcısı olan herhangi bir cihazda çalışır - masaüstü, tablet veya mobil."
   },
   "faq": "Sıkça Sorulan Sorular",
-  "what_is_logosurf": "¿Qué es Logo.Surf?",
-  "what_is_logosurf_answer": "Logo.Surf es una plataforma de generación de logotipos impulsada por IA que te ayuda a crear logotipos profesionales de manera rápida y sencilla.",
+  "what_is_logosurf": "¿Qué es LogoiT?",
+  "what_is_logosurf_answer": "LogoiT es una plataforma de generación de logotipos impulsada por IA que te ayuda a crear logotipos profesionales de manera rápida y sencilla.",
   "ai_question": "¿Cómo genera la IA los logotipos?",
   "ai_answer": "Nuestra IA analiza tu entrada de texto y crea diseños de logotipos únicos basados en las tendencias de diseño actuales y tus requisitos específicos.",
   "what_is_favicon": "¿Qué es un Favicon?",

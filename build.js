@@ -4,7 +4,7 @@ const Handlebars = require('handlebars');
 
 // Configuration
 const config = {
-  baseUrl: 'https://www.logo.surf',
+  baseUrl: 'https://www.Logo.iT',
   supportedLanguages: {
     'en': { name: 'English', dir: 'ltr' },
     'zh-hans': { name: '简体中文', dir: 'ltr' },
@@ -350,7 +350,7 @@ RewriteRule ^$ /hi/ [R=302,L]
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    "name": "Logo.surf",
+    "name": "LogoiT",
     "description": "Free text-to-logo and favicon generator",
     "url": config.baseUrl,
     "applicationCategory": "DesignApplication",
@@ -362,7 +362,7 @@ RewriteRule ^$ /hi/ [R=302,L]
     },
     "creator": {
       "@type": "Organization",
-      "name": "Logo.surf",
+      "name": "LogoiT",
       "url": config.baseUrl
     },
     "featureList": [
