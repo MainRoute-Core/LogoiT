@@ -1,8 +1,8 @@
 # LogoiT - Text to Logo & Favicon Generator
 
-[![LogoiT Preview](./assets/logoiT.preview.png)](https://microresearch-corporation.github.io/LogoiT/)
+[![LogoiT Preview](./assets/logoiT.preview.png)](https://mainroute-core.github.io/LogoiT/)
 
-[Visit LogoiT](https://microresearch-corporation.github.io/LogoiT/)
+[Visit LogoiT](https://mainroute-core.github.io/LogoiT/)
 
 > **Note**: This project is primarily developed using AI-generated code. While this approach allows for rapid development and innovative solutions, we encourage users and contributors to review and validate the code as needed.
 
@@ -19,7 +19,7 @@ LogoiT is a free, user-friendly tool that allows you to quickly generate profess
 
 ## How to Use
 
-1. Visit [LogoiT](https://microresearch-corporation.github.io/LogoiT/)
+1. Visit [LogoiT](https://mainroute-core.github.io/LogoiT/)
 2. Enter your desired text in the input field.
 3. Customize your logo using the available options (color, font, size, etc.).
 4. Preview your logo in real-time.
