@@ -4,8 +4,6 @@
 
 [Visit LogoiT](https://mainroute-core.github.io/LogoiT/)
 
-> **Note**: This project is primarily developed using AI-generated code. While this approach allows for rapid development and innovative solutions, we encourage users and contributors to review and validate the code as needed.
-
 LogoiT is a free, user-friendly tool that allows you to quickly generate professional logos and favicons from text. Perfect for developers, designers, and anyone looking to create a simple yet effective brand identity.
 
 ## Features
